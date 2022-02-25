@@ -1,16 +1,12 @@
 # pretest
 
-A new Flutter project.
+Project ini terdiri dari 3 folder utama, yaitu model, view dan services.
+Model digunakan untuk menyimpan data dari API agar mudah digunakan,
+Services untuk logic API aplikasi.
+View untuk menampung UI dari aplikasi.
 
-## Getting Started
+## Screenshot
+<a href="https://drive.google.com/uc?export=view&id=1IuwYRRpish8X3qMmEQi3PpHqJR5I0mgx"><img src="https://drive.google.com/uc?export=view&id=1IuwYRRpish8X3qMmEQi3PpHqJR5I0mgx" style="width: 150px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<a href="https://drive.google.com/uc?export=view&id=1IrAgBOOyA6k8wJrVC4umDtEjrMqpoIPp"><img src="https://drive.google.com/uc?export=view&id=1IrAgBOOyA6k8wJrVC4umDtEjrMqpoIPp" style="width: 150px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<a href="https://drive.google.com/uc?export=view&id=1IeDDzGIGTpJRVED0UTX7lP9qBWjFHmuT"><img src="https://drive.google.com/uc?export=view&id=1IeDDzGIGTpJRVED0UTX7lP9qBWjFHmuT" style="width: 150px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
